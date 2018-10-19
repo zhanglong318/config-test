@@ -1,0 +1,4 @@
+redis:
+  host: test.redis
+mongo:
+  host: test.mongo

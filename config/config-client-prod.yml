@@ -1,0 +1,4 @@
+redis:
+  host: prod.redis
+mongo:
+  host: prod.mongo
